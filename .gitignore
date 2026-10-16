@@ -8,6 +8,9 @@ temp_dir/*
 .RData
 .RDataTmp
 
+.DS_Store
+_test
+
 # User-specific files
 .Ruserdata
 
